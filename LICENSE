@@ -1,18 +1,44 @@
+<<<<<<< Updated upstream
 # Aquanite Agreement License v1.0
+=======
+# Aquanite License v1.1
+>>>>>>> Stashed changes
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Permission is granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software, subject to the following conditions:
 
+<<<<<<< Updated upstream
 1. **Referencing Code**: Code may be referenced without restriction, provided that the referenced code does not closely resemble the original code specified in PUBLIC.A. This means that while you can refer to the logic and structure of the code, you must ensure that your implementation is sufficiently distinct from the original.
 2. **Copying Code with Credit**: To copy the code, it must be explicitly listed in PUBLIC.A, and appropriate credit must be given to the original authors. This includes providing a clear and visible acknowledgment in your project documentation or source files, indicating the original authors and the source of the code.
 3. **Non-PUBLIC.A Code**: Any code not listed in PUBLIC.A is strictly prohibited from being copied or used in any form. This ensures that only the code explicitly made available for use is utilized, protecting other parts of the software that may not be intended for public use.
 
 Example of PUBLIC.A:
+=======
+1. **Referencing Code**: You can refer to the code's logic and structure but must ensure your implementation is distinct from the original.
+
+2. **Copying Code with Credit**: You can copy code listed in PUBLIC.A with proper credit to the original authors.
+
+3. **Non-PUBLIC.A Code**: Code not listed in PUBLIC.A cannot be copied or used.
+
+4. **Modification and Distribution**: You can modify and distribute code listed in PUBLIC.A, with documented changes and original copyright notice.
+
+5. **Sublicensing**: You can sublicense code listed in PUBLIC.A under the same terms.
+
+6. **Enforcement and Compliance**: Violations will be subject to legal action.
+
+7. **Contribution Back**: You are encouraged to contribute modifications back to the original repository.
+
+##### Example of PUBLIC.A:
+>>>>>>> Stashed changes
 
 - All contents of `./example/example.cpp`
 - All contents of `./example/example.hpp`
 - Function `plGetSomething` within `./example/example.c`
 
+<<<<<<< Updated upstream
 4. **Modification and Distribution**: You are allowed to modify the code listed in PUBLIC.A and distribute your modifications, provided that you clearly document the changes made and retain the original copyright notice. This helps maintain transparency and gives credit to the original authors while allowing the community to benefit from improvements and adaptations.
 5. **Sublicensing**: You may sublicense the code listed in PUBLIC.A under the same terms as this license. This allows you to integrate the code into larger projects and distribute it under compatible licensing terms.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. THE WRITER OF THE CODE IS NOT ACCOUNTABLE FOR ANY ISSUES ARISING FROM THE USE OF THE SOFTWARE.
+=======
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+>>>>>>> Stashed changes
