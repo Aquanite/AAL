@@ -1,0 +1,15 @@
+# Aquanite Agreement License v1.0
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use portions of the source code specified in the file PUBLIC.A, subject to the following conditions:
+
+1. **Referencing Code**: Code may be referenced without restriction, provided that the referenced code does not closely resemble the original code specified in PUBLIC.A.
+2. **Copying Code with Credit**: To copy the code, it must be explicitly listed in PUBLIC.A, and appropriate credit must be given to the original authors.
+3. **Non-PUBLIC.A Code**: Any code not listed in PUBLIC.A is strictly prohibited from being copied or used in any form.
+
+Example of PUBLIC.A:
+
+- All contents of `./example/example.cpp`
+- All contents of `./example/example.hpp`
+- Function `plGetSomething` within `./example/example.c`
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
